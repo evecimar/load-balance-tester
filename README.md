@@ -7,4 +7,5 @@ Crie os container que estarão atrás do load balance com as seguintes configura
 imagem: evecimar/laravel-5.6:alpine
 environment:
     git_url: https://github.com/evecimar/load-balance-tester.git
+
     git_branch: master
