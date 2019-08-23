@@ -2,4 +2,4 @@ Este projeto tem como objetivo testar o sistema de balanceamento de carga em con
 
 Como usar:
 
-Crie os containers que ficarão atrás do load balance com as seguintes seguindo o docker-composer.yml
+Crie os containers que ficarão atrás do load balance seguindo o docker-composer.yml
