@@ -2,13 +2,4 @@ Este projeto tem como objetivo testar o sistema de balanceamento de carga em con
 
 Como usar:
 
-Crie os container que estarão atrás do load balance com as seguintes configurações:
-
-
-    imagem: evecimar/laravel-5.6:alpine
-
-    environment:
-    
-    git_url: https://github.com/evecimar/load-balance-tester.git
-
-    git_branch: master
+Crie os containers que ficarão atrás do load balance com as seguintes seguindo o docker-composer.yml
